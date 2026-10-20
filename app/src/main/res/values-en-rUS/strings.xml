@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica_2_2_1</string>
+    <string name="materia">Mobile app</string>
+    <string name="nombre">Mayk</string>
+    <string name="apellido">Esparza</string>
+    <string name="home_screen">Home</string>
+    <string name="back_btn_desc">Back</string>
+</resources>
